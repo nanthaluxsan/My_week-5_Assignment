@@ -9,7 +9,7 @@ This project uses a BERT model from the Hugging Face Transformers library for Na
 - [Implement inference function](#inference)
 - [Check with trainned model](#running-the-code)
 - [Check with pre-trained model](#example-output)
-- [ Conclusion]
+- [ Conclusion]()
 
 ## Setup
 
